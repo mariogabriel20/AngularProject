@@ -1,0 +1,15 @@
+.container{
+	padding: 20px;
+	text-align: center;
+}
+
+#main_img{
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 5px;
+	border-color: #4E4D4D;
+}
+
+h1{
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}

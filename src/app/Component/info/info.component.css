@@ -1,0 +1,18 @@
+.container{
+	background-color: white;
+	border-radius: 40px;
+	margin-top: 30px;
+	padding: 40px;
+	box-shadow: 5px 10px 16px #181818;
+}
+
+#desc{
+	float: left;
+	transform: scale(1);
+}
+
+.card{
+	margin: auto;
+	width: 70%;
+	height: 800px;
+}

@@ -1,0 +1,14 @@
+.container{
+	margin-top: 50px;
+}
+
+#carouselExampleIndicators{
+	background-color: rgb(66, 66, 66);
+	border-radius: 50px;
+	width: 70%;
+	margin: auto;
+}
+
+.d-block{
+	margin: auto;
+}
